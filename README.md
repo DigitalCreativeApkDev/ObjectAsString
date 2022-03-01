@@ -81,3 +81,4 @@ Output: True
 # Tests
 
 Tests for this project are available in 
+https://github.com/DigitalCreativeApkDev/ObjectAsString/blob/master/ObjectAsString/ObjectAsString_tests.py.
